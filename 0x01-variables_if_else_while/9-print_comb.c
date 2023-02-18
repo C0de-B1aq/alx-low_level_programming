@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - Entry point function
  *
- * Description: 'the program's description'
+ * Description: 'prints all possible combinations of single-digit numbers'
  *
  * Single digit num are from 0 to 9
  *
