@@ -3,10 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - function that prints a random number to a var
- *
- * return: 0 for success
- *
+ * main - Entry point
+ * Description: 'the program assigns a random number to var'
+ * Return: Always 0 (Success)
  */
 
 int main(void)
