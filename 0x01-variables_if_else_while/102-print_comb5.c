@@ -5,7 +5,8 @@
 /**
  * main - Entry point function
  *
- * Description: 'the program prints all possible combinations of two two-digit numbers'
+ * Description: 'the program prints all possible combinations of 
+ * two two-digit numbers'
  *
  * Range 0-99 fo the two twp-digit numbers.
  *
@@ -31,10 +32,9 @@ int main(void)
 					putchar((b % 10) + 48);
 
 					if (a != 98 || b != 99)
-					{
-						putchar(',');
-						putchar(' ');
-					}
+						continue;
+					putchar(',');
+					putchar(' ');
 				}
 			}
 	}
