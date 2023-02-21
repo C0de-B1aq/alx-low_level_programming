@@ -1,18 +1,22 @@
-#include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - Entry point function
  *
- * Description: 'the program's description'
+ * Description: 'the program prints _putchar'
  *
  * Return: Always 0 (Success)
  */
 
 int main(void)
 {
-	printf("_putchar");
+	char = _putchar;
+	{
+		putchar(char);
+	}
+
+	putchar('\n');
 
 	return (0);
 }
