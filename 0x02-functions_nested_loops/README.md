@@ -1,1 +1,1 @@
-This proejct covers functions and nested loops
+The nested loop functions project

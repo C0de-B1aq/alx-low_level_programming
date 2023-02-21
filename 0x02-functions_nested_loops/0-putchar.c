@@ -1,9 +1,7 @@
-#include <main.h>
-#include <time.h>
-#include <stdio.h>
+#include "main.h"
 
 /**
- * main - Entry point function
+ * main - Entry point, _putchar function
  *
  * Description: 'the program prints _putchar'
  *
@@ -12,12 +10,13 @@
 
 int main(void)
 {
-	char = _putchar;
-	{
-		putchar(char);
-	}
-
-	putchar('\n');
-
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
 	return (0);
 }
