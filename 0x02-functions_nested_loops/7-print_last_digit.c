@@ -3,7 +3,7 @@
 /**
  * print_last_digit - Prints the last digit of a number
  *
- * @l: function parameter for the value of last digit.	
+ * @l: function parameter for the value of last digit.
  *
  * Return: Always 'm' (Success)
  */
