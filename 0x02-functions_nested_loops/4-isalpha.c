@@ -3,9 +3,9 @@
 /**
  * _isalpha - function that checks for all alphabets.
  *
- * @c: parameter to be checked.
+ * @c : parameter to be checked.
  *
- * Return: 1 if it is an aphabet
+ * Return: 1 if it is an alphabet
  * and 0 otherwise.
  */
 
