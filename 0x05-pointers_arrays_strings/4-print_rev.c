@@ -21,9 +21,9 @@ void print_rev(char *s)
 	s--;
 	for (r = longi; r > 0; r--)
 	{
-		_putchar(*s);
+		putchar(*s);
 		s--;
 	}
 
-	_putchar('\n');
+	putchar('\n');
 }
