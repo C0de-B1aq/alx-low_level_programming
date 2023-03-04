@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/**
+ * main - main function
+ *
+ * Return: 0 success
+ */
+
 int main(void)
 {
 	int n;
@@ -8,6 +14,7 @@ int main(void)
 
 	a[2] = 1024;
 	p = &n;
+
 	/*
 	 * write your line of code here...
 	 * Remember:
