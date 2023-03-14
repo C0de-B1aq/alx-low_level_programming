@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <unistd.h>
 
 /**
  * _putchar - prints the element of a function and display in std output.
@@ -11,6 +12,5 @@
 
 int _putchar(char c)
 {
-	_puts(write(1,&c,1));
-	return 0;
+	return(write(1,&c,1));
 }
