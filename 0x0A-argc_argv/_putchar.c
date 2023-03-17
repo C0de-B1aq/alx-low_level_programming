@@ -4,7 +4,8 @@
 /**
  * _putchar - print char function
  *
- * Return: 0 (ssuccess)
+ * Return: 1 (ssuccess) and
+ * -1 on error
  */
 int _putchar(char c)
 {
